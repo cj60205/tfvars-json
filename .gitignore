@@ -1,0 +1,4 @@
+tfvars-json
+*.tfvars
+*.tfvars.json
+*.tfvars.ejson
